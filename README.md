@@ -1,2 +1,5 @@
 # GIAC-GWEB-Training
-My personal notes and exercises for my GIAC-GWEB certification exam.
+gcroteau personal notes and exercises for gcroteau GIAC-GWEB certification exam.
+Original github source:
+https://github.com/gcroteau/GIAC-GWEB-Training
+
